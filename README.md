@@ -1,4 +1,5 @@
 # vtk-viz
+The provided code is designed to create an interactive volume visualization using the Visualization Toolkit (VTK) library in Python. Its primary purpose is to load a volumetric dataset from a file, such as a .vti file, and render it in a three-dimensional space. The visualization allows users to manipulate various parameters, including color transfer function, opacity, camera angles, background color, and animation speed. Additionally, the code provides interactive features like picking points in the volume, toggling the visibility of a plane widget, and displaying information about picked points. Overall, the code facilitates the exploration and analysis of volumetric data through an interactive and customizable visualization interface.
 
 ## Installation Instructions for VTK Visualization Script
 
