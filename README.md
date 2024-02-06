@@ -3,6 +3,9 @@ The provided code is designed to create an interactive volume visualization usin
 
 ## [![Video Demo](https://img.youtube.com/vi/Z9kYDPtN3ms/0.jpg)](https://www.youtube.com/watch?v=Z9kYDPtN3ms)
 
+
+![UI example](https://github.com/abulalarabi/vtk-viz/blob/main/1.png)
+
 ## Installation Instructions for VTK Visualization Script
 
 ### 1. Ensure Required Dependencies:
